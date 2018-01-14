@@ -48,7 +48,6 @@ function custom_settings_page_setup() {
   add_settings_section( 'section', 'All Settings', null, 'theme-options' );
   add_settings_field( 'twitter', 'Twitter URL', 'setting_twitter', 'theme-options', 'section' );
   add_settings_field( 'github', 'GitHub URL', 'setting_github', 'theme-options', 'section' );
-
 	register_setting( 'section', 'twitter' );
   register_setting( 'section', 'github' );
 }

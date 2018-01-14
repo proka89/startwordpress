@@ -10,10 +10,10 @@
     </ol>
   </div>
   <div class="sidebar-module">
-		<h4>Elsewhere</h4>
-		<ol class="list-unstyled">
+    <h4>Elsewhere</h4>
+    <ol class="list-unstyled">
       <li><a href="<?php echo get_option('github'); ?>">GitHub</a></li>
       <li><a href="<?php echo get_option('twitter'); ?>">Twitter</a></li>
-		</ol>
-	</div>
+    </ol>
+  </div>
 </div><!-- /.blog-sidebar -->
