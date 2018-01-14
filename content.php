@@ -9,3 +9,4 @@
 	</p>
 	<?php the_excerpt(); ?>
 </div><!-- /.blog-post -->
+<!-- -->

@@ -18,3 +18,4 @@
 <?php get_sidebar(); ?>
 </div><!-- /.row -->
 <?php get_footer(); ?>
+<!-- -->
